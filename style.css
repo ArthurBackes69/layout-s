@@ -1,0 +1,53 @@
+body{
+
+    display: flex;
+    align-items: flex-start;
+}
+
+.blue{
+    padding: 100px;
+    background-color: blue;
+}
+
+.yo{
+    padding: 100px;
+    background-color: rgb(255, 238, 0);
+    margin: 30px;
+}
+.red{
+    padding-right: 300px;
+    background-color: red;
+}
+.sla{
+    padding-bottom: 560px;
+}
+.green{
+    padding-bottom: 300px;
+    background-color: green;
+}
+
+.purple {
+    padding-bottom: 200px;
+    background-color: purple;
+}
+.orange{
+    background-color: rgb(255, 94, 0);
+    padding-right: 360px;
+}
+.isto{
+    padding-bottom: 420px;
+}
+.exato{
+    padding-bottom: 390px;
+}
+.red_2{
+    padding-right: 360px;
+    background-color: red;
+}
+.yo2{
+    padding-bottom: 360px;
+}
+.flex{
+    display: flex;
+
+}
